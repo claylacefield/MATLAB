@@ -1,6 +1,6 @@
 function [frTimes, syncOnTimes, syncOffTimes] = processNVgpioPy() % time, sync, io1) % (pyGpioStruc)
 
-% Clay 2017
+% Clay 2017 (test mod)
 % This is a function to take output from the export_gpio.py script from
 % Inscopix, imported to MATLAB with the import wizard, and to process
 % nVista frame times and med associates sync signals (io1). 
